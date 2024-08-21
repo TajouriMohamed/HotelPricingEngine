@@ -1,0 +1,18 @@
+[
+  {
+    "ContainingType": "HotelPricingEngine.Controllers.PricingController",
+    "Method": "CalculatePrice",
+    "RelativePath": "api/Pricing/calculate",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "HotelPricingEngine.Models.PricingRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]
