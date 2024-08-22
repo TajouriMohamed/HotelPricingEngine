@@ -1,5 +1,21 @@
 [
   {
+    "ContainingType": "HotelPricingEngine.Controllers.AllocationController",
+    "Method": "AllocateRooms",
+    "RelativePath": "api/Allocation/allocate",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "requests",
+        "Type": "System.Collections.Generic.List\u00601[[HotelPricingEngine.Models.BookingRequest, HotelPricingEngine, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
     "ContainingType": "HotelPricingEngine.Controllers.PricingController",
     "Method": "CalculatePrice",
     "RelativePath": "api/Pricing/calculate",

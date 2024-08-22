@@ -23,3 +23,4 @@ C:\Users\Mega-PC\source\repos\HotelPricingEngine\HotelPricingEngine\obj\Debug\ne
 C:\Users\Mega-PC\source\repos\HotelPricingEngine\HotelPricingEngine\obj\Debug\net8.0\HotelPricingEngine.pdb
 C:\Users\Mega-PC\source\repos\HotelPricingEngine\HotelPricingEngine\obj\Debug\net8.0\HotelPricingEngine.genruntimeconfig.cache
 C:\Users\Mega-PC\source\repos\HotelPricingEngine\HotelPricingEngine\obj\Debug\net8.0\ref\HotelPricingEngine.dll
+C:\Users\Mega-PC\source\repos\HotelPricingEngine\HotelPricingEngine\obj\Debug\net8.0\HotelPricingEngine.sourcelink.json
